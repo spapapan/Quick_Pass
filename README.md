@@ -14,9 +14,10 @@ If there is a password for the given username in the database, then it will auto
 Quick Pass is a program that runs in the background and has been tested only in <b>Windows</b>. At the right bottom corner of Windows there is
 an icon of the program. If you right click it you will have 3 options: 
 
-<b>Add Password:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manually add a username - password combination to the database. </br>
-<b>Export Passwords:</b> &nbsp;Creates a text file with all the usernames - passwords combinations to a given path. </br>
-<b>Exit:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Terminates the application.
+<b>Add Password:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manually add a username - password combination to the database. </br>
+<b>Remove Password:</b> &nbsp; Manually remove a password given a username </br>
+<b>Export Passwords:</b> &nbsp;&nbsp;&nbsp;Creates a text file with all the usernames - passwords combinations to a given path. </br>
+<b>Exit:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Terminates the application.
 
 There is a java file with the name Encryption.java where you can add your own encryption and decryption algorithm so you can safely place the 
 passwords in your local system.
