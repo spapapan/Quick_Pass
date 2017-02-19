@@ -11,7 +11,7 @@ for the given username in the database it will create a new 20 character long pa
 you want.
 If there is a password for the given username in the database, then it will automatically place the password in the clipboard.
 
-Quick Pass is a program that runs in the background and has been tested only in <b>Windows</b>. At the right bottom corner of windows there is
+Quick Pass is a program that runs in the background and has been tested only in <b>Windows</b>. At the right bottom corner of Windows there is
 an icon of the program. If you right click it you will have 3 options: 
 
 <b>Add Password:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manually add a username - password combination to the database. </br>
