@@ -12,7 +12,7 @@ you want.
 If there is a password for the given username in the database, then it will automatically place the password in the clipboard.
 
 Quick Pass is a program that runs in the background and has been tested only in <b>Windows</b>. At the right bottom corner of Windows there is
-an icon of the program. If you right click it you will have 3 options: 
+an icon of the program. If you right click it you will have 4 options: 
 
 <b>Add Password:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manually add a username - password combination to the database. </br>
 <b>Remove Password:</b> &nbsp; Manually remove a password given a username </br>
