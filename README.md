@@ -2,7 +2,7 @@
 <i>Password manager to quickly pass authentication forms, written in Java.</i>
 
 
-Quick Pass is a useful tool for anyone who wants to have strong passwords without the need to remember them and typing them when needed.
+Quick Pass is a useful tool for anyone who wants to have strong passwords without the need to remember them and type them when needed.
 
 <b><i>HOW TO USE:</i></b>
 
